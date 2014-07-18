@@ -1,0 +1,6 @@
+C:\My Stuff\My Edu\ASU\Courses\CSE 598 DSOD\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\My Stuff\My Edu\ASU\Courses\CSE 598 DSOD\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\My Stuff\My Edu\ASU\Courses\CSE 598 DSOD\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\My Stuff\My Edu\ASU\Courses\CSE 598 DSOD\Assignment 2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\My Stuff\My Edu\ASU\Courses\CSE 598 DSOD\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\My Stuff\My Edu\ASU\Courses\CSE 598 DSOD\Assignment 2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
